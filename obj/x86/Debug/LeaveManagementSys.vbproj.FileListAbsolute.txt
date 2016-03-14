@@ -1,0 +1,110 @@
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.login.resources
+C:\Users\student\Desktop\kVn\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.user.resources
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.login.resources
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSys.vbproj.GenerateResource.Cache
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSys.vbprojResolveAssemblyReference.cache
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.details.resources
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.user.resources
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.leaveapply.resources
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.hod.resources
+E:\Visual Studio Workspace\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.principal.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSys.vbprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.action.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.admin.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.hod.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.details.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.leaveapply.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.login.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.principal.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.setleaves.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.user.resources
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSys.vbproj.GenerateResource.Cache
+C:\Users\Sony\Desktop\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.reset.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSys.vbprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.action.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.admin.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.hod.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.details.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.leaveapply.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.login.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.principal.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.reset.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.setleaves.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.user.resources
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSys.vbproj.GenerateResource.Cache
+C:\Users\Sony\Desktop\miniproject_leave_final\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSys.vbprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.admin.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.action.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.hod.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.details.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.leaveapply.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.login.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.principal.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.reset.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.setleaves.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\WindowsApplication2.user.resources
+C:\Users\Sony\Desktop\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSys.vbproj.GenerateResource.Cache
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSys.vbprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSys.vbproj.GenerateResource.Cache
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\LeaveManagementSystem.exe.config
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\LeaveManagementSystem.exe
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\LeaveManagementSystem.pdb
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\bin\Debug\LeaveManagementSystem.xml
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.admin.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.action.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.hod.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.details.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.leaveapply.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.login.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.Resources.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.principal.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.report.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.report1.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.reset.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.setleaves.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.user.resources
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.exe
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.xml
+C:\Users\Sony\Desktop\New folder\miniproject_leave_final0\miniproject_leave(2)\miniproject_leave\WindowsApplication2\obj\x86\Debug\LeaveManagementSystem.pdb
